@@ -11,14 +11,14 @@
   "author": {
     "name": "Digital Bazaar, Inc.",
     "email": "support@digitalbazaar.com",
-    "url": "http://digitalbazaar.com"
+    "url": "https://digitalbazaar.com/"
   },
   "bugs": {
     "url": "https://github.com/digitalbazaar/bedrock-injector/issues"
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-injector",
   "peerDependencies": {
-    "bedrock": "^1.8.0"
+    "bedrock": "1.8.0 - 3.x"
   },
   "engines": {
     "node": ">=6.3.0"

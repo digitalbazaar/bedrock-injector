@@ -2,6 +2,7 @@
   "name": "bedrock-injector",
   "version": "1.0.0",
   "description": "Bedrock injector",
+  "license": "SEE LICENSE IN LICENSE.md",
   "main": "lib",
   "repository": {
     "type": "git",

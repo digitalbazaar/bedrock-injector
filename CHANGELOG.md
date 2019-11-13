@@ -1,5 +1,7 @@
 # bedrock-injector ChangeLog
 
+## 1.0.1 - 2019-11-12
+
 ### Changed
 - Update max bedrock dependency.
 

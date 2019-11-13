@@ -1,6 +1,6 @@
 {
   "name": "bedrock-injector",
-  "version": "1.0.1",
+  "version": "1.0.2-0",
   "description": "Bedrock injector",
   "license": "SEE LICENSE IN LICENSE.md",
   "main": "lib",
